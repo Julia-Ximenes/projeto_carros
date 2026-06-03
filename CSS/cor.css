@@ -1,0 +1,40 @@
+.conteiner_pai{
+    background-color: rgb(207, 219, 230);
+}
+
+.conteiner_info{
+    background-color: aliceblue;
+}
+
+.cor_pg1{
+    background-color:  #A8DCE1;
+}
+
+.cor_pg2{
+    background-color:  #85CFD5;
+}
+
+.cor_pg3{
+    background-color: #63C1CA;
+}
+
+.cor_pg4{
+    background-color: #49B7C1;
+}
+
+.cor_pg5{
+    background-color: #35939C;
+}
+
+.cor_pg_inicial{
+    background-color: rgb(114, 208, 236);
+}
+
+
+button{
+    background-color:#A8DCE1;
+}
+
+.conteiner_botao_img{
+    background-color: aliceblue;
+}

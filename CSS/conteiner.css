@@ -1,0 +1,29 @@
+.conteiner_pai{
+    border-radius: 10px;
+    border: groove rgb(189, 189, 247) 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.conteiner_info{
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    border: groove rgb(206, 206, 238) 2px;
+}
+
+
+.conteiner_botao{
+    display: flex;
+    margin-left: 34%;
+}
+
+.conteiner_botao_img{
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    border: groove rgb(206, 206, 238) 2px;
+    margin-bottom: 20px;
+}
